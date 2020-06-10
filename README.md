@@ -29,6 +29,6 @@ O twitter possuí três tabelas no banco de dados:
 * Require PHP 7.x.x
 ## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
