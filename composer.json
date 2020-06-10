@@ -1,5 +1,5 @@
 {
-	"name": "miniframework",
+	"name": "twitterClone",
 	"require": {
 		"php": ">= 7.0"
 	},
