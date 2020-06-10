@@ -1,5 +1,5 @@
 # 🐦 Twitter Clone
-Um clone do twitter funcional, com 4 páginas.
+Um clone do twitter totalmente funcional, com 4 páginas:
 <li>timeline: Para listagem de tweets de seus seguidores</li>
 <img src="./gitReadme/foto.png">
 <li>quemSeguir: Para buscar perfis para os segui-los</li>
