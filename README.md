@@ -25,6 +25,8 @@ O twitter possuí três tabelas no banco de dados:
 * A senha salva no banco de dados é um hash MD5
 * Há uma paginação e é listado apenas 10 tweets por página
 * O projeto é construito no padrão MVC
+* ComposerPHP
+* Require PHP 7.x.x
 ## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
