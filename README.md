@@ -1,13 +1,14 @@
 # 🐦 Twitter Clone
 Um clone do twitter totalmente funcional, com 4 páginas:
-<li>timeline: Para listagem de tweets de seus seguidores</li>
-<img src="./gitReadme/foto.png">
-<li>quemSeguir: Para buscar perfis para os segui-los</li>
-<img src="./gitReadme/foto.png">
 <li>index: Página inicial com área para logar ou se inscrever</li>
-<img src="./gitReadme/foto.png">
+<img src="./gitReadme/index.png">
 <li>inscreverse: Página para se inscrever no twitter Clone</li>
-<img src="./gitReadme/foto.png">
+<img src="./gitReadme/inscreverse.png">
+<li>timeline: Para listagem de tweets de seus seguidores</li>
+<img src="./gitReadme/timeline.png">
+<li>quemSeguir: Para buscar perfis para os segui-los</li>
+<img src="./gitReadme/quemSeguir.png">
+
 
 
 
